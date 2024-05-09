@@ -40,7 +40,7 @@ Estou aprendendo programação, com foco em Java e PHP, utilizando o MySQL como 
 
 ## Projetos
 
-<a  href="https://github.com/ViiniDev/ebook-store">
+<a  href="https://github.com/ViiniDev/E_Book_Wizard">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=ebook-store&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
 </a>
 
