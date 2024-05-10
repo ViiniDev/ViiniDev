@@ -43,6 +43,25 @@ Estou aprendendo programação, com foco em Java e PHP, utilizando o MySQL como 
 <a  href="https://github.com/ViiniDev/E_Book_Wizard">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=E_Book_Wizard&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
 </a>
+<a  href="https://github.com/ViiniDev/gitflowusers">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=gitflowusers&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
+</a>
+<a  href="https://github.com/ViiniDev/Portifolio">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=Portifolio&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
+</a>
+</a>
+<a  href="https://github.com/ViiniDev/Crud-estudante">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=Crud-estudante&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
+</a>
+</a>
+<a  href="https://github.com/ViiniDev/Crud-to-do-list">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=Crud-to-do-list&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
+</a>
+</a>
+<a  href="https://github.com/ViiniDev/Cadastro-Netbeans">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=Cadastro-Netbeans&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
+</a>
+
 
 
 
