@@ -3,7 +3,7 @@
 ### Bem-vindo ao meu perfil do GitHub! 
 
 ## Sobre mim 
-Programador, com foco em Java e PHP, utilizando o MySQL como banco de dados.
+Programador, com foco em Java , utilizando o MySQL como banco de dados.
 - 📚 Sou graduando em Ciência da Computação pela UFT - Palmas TO
 - 💼 Estou em busca de oportunidades de trabalho na área de desenvolvimento de software e tecnologia.
 - ⚡ Fun fact: Nas horas vagas pratico exercicios e esportes.
