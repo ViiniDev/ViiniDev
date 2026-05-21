@@ -1,15 +1,15 @@
-# Vinicius Arruda
+# Vinícius Arruda
 
-**Desenvolvedor Backend Java Junior em formacao**
+**Desenvolvedor Backend Java Júnior em formação**
 
-Sou graduando em Ciencia da Computacao pela UFT, com foco em desenvolvimento backend usando Java, Spring Boot, APIs REST e bancos de dados relacionais. Estou em busca da minha primeira oportunidade profissional na area de desenvolvimento de software, com interesse em construir sistemas organizados, bem documentados e evoluir com boas praticas de arquitetura e qualidade de codigo.
+Sou graduando em Ciência da Computação pela UFT, com foco em desenvolvimento backend usando Java, Spring Boot, APIs REST e bancos de dados relacionais. Estou em busca da minha primeira oportunidade profissional na área de desenvolvimento de software, com interesse em construir sistemas organizados, bem documentados e evoluir com boas práticas de arquitetura e qualidade de código.
 
 ## Foco Atual
 
 - Desenvolvimento backend com Java e Spring Boot
-- Criacao de APIs REST com organizacao em camadas
-- Persistencia com PostgreSQL, MySQL, JPA e Hibernate
-- Boas praticas com Git, GitHub, documentacao e padronizacao de projetos
+- Criação de APIs REST com organização em camadas
+- Persistência com PostgreSQL, MySQL, JPA e Hibernate
+- Boas práticas com Git, GitHub, documentação e padronização de projetos
 - Estudos em arquitetura de software, testes e bancos de dados
 
 ## Tecnologias
@@ -25,18 +25,18 @@ Sou graduando em Ciencia da Computacao pela UFT, com foco em desenvolvimento bac
 
 ## Projetos em Destaque
 
-| Projeto | Descricao | Tecnologias |
+| Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [Desafio Java Itau Backend](https://github.com/ViiniDev/Desafio-Java-Itau-Backend) | API REST para registro de transacoes e calculo de estatisticas em memoria nos ultimos 60 segundos. | Java, Spring Boot, REST, Bean Validation |
-| [ePromissorias](https://github.com/ViiniDev/ePromissorias) | Sistema desktop para gerenciamento de promissorias, compras e adiantamentos. | Java, JavaFX, PostgreSQL, Maven |
-| [CRUD To-Do List](https://github.com/ViiniDev/Crud-to-do-list) | API REST para gerenciamento de tarefas com persistencia em PostgreSQL e testes com banco em memoria. | Java, Spring Boot, JPA, PostgreSQL, H2 |
+| [Desafio Java Itaú Backend](https://github.com/ViiniDev/Desafio-Java-Itau-Backend) | API REST para registro de transações e cálculo de estatísticas em memória nos últimos 60 segundos. | Java, Spring Boot, REST, Bean Validation |
+| [ePromissórias](https://github.com/ViiniDev/ePromissorias) | Sistema desktop para gerenciamento de promissórias, compras e adiantamentos. | Java, JavaFX, PostgreSQL, Maven |
+| [CRUD To-Do List](https://github.com/ViiniDev/Crud-to-do-list) | API REST para gerenciamento de tarefas com persistência em PostgreSQL e testes com banco em memória. | Java, Spring Boot, JPA, PostgreSQL, H2 |
 | [CRUD Estudante](https://github.com/ViiniDev/Crud-estudante) | API REST para cadastro e gerenciamento de estudantes, usando DTOs e arquitetura em camadas. | Java, Spring Boot, JPA, PostgreSQL, H2 |
-| [Rest Request List](https://github.com/ViiniDev/Rest-request-list) | API simples para consulta de produtos por departamento, criada para praticar endpoints REST e serializacao JSON. | Java, Spring Boot, Maven |
-| [Portifolio](https://github.com/ViiniDev/Portifolio) | Portfolio web pessoal para apresentacao profissional e projetos. | HTML, CSS, JavaScript |
+| [Rest Request List](https://github.com/ViiniDev/Rest-request-list) | API simples para consulta de produtos por departamento, criada para praticar endpoints REST e serialização JSON. | Java, Spring Boot, Maven |
+| [Portfólio](https://github.com/ViiniDev/Portifolio) | Portfólio web pessoal para apresentação profissional e projetos. | HTML, CSS, JavaScript |
 
 ## Como Estou Evoluindo
 
-Tenho organizado meus projetos com READMEs mais completos, instrucoes de execucao, separacao de responsabilidades e commits mais claros. Meu objetivo e demonstrar evolucao consistente, capacidade de aprender rapido e cuidado com codigo que outras pessoas consigam entender, executar e manter.
+Tenho organizado meus projetos com READMEs mais completos, instruções de execução, separação de responsabilidades e commits mais claros. Meu objetivo é demonstrar evolução consistente, capacidade de aprender rápido e cuidado com código que outras pessoas consigam entender, executar e manter.
 
 ## Contato
 
@@ -45,4 +45,4 @@ Tenho organizado meus projetos com READMEs mais completos, instrucoes de execuca
 
 ---
 
-Aberto a oportunidades como Desenvolvedor Backend Java Junior, estagio ou trainee em desenvolvimento de software.
+Aberto a oportunidades como Desenvolvedor Backend Java Júnior, estágio ou trainee em desenvolvimento de software.
