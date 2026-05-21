@@ -1,63 +1,48 @@
-# Olá! Me chamo Vinícius 👋
+# Vinicius Arruda
 
-### Bem-vindo ao meu perfil do GitHub! 
+**Desenvolvedor Backend Java Junior em formacao**
 
-## Sobre mim 
-Atualmente tenho foco em desenvolvimento backend com Java, buscando aprofundar conhecimentos em boas práticas, arquitetura de software e bancos de dados.
-- 📚 Sou graduando em Ciência da Computação pela UFT - Palmas TO
-- 💼 Estou em busca de oportunidades de trabalho na área de desenvolvimento de software e tecnologia.
-- ⚡ Fun fact: Nas horas vagas pratico exercicios e esportes.
-- 📫 Você pode me encontrar em:
-  
+Sou graduando em Ciencia da Computacao pela UFT, com foco em desenvolvimento backend usando Java, Spring Boot, APIs REST e bancos de dados relacionais. Estou em busca da minha primeira oportunidade profissional na area de desenvolvimento de software, com interesse em construir sistemas organizados, bem documentados e evoluir com boas praticas de arquitetura e qualidade de codigo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=4e676c)](https://www.linkedin.com/in/vinicius-arruda-155697277/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white&color=191724)](mailto:vinicius.arruda@mail.uft.edu.br)
+## Foco Atual
 
+- Desenvolvimento backend com Java e Spring Boot
+- Criacao de APIs REST com organizacao em camadas
+- Persistencia com PostgreSQL, MySQL, JPA e Hibernate
+- Boas praticas com Git, GitHub, documentacao e padronizacao de projetos
+- Estudos em arquitetura de software, testes e bancos de dados
 
-## Linguagens e Ferramentas
+## Tecnologias
 
+![Java](https://img.shields.io/badge/Java-191724?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-4e676c?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-191724?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4e676c?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-191724?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-4e676c?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-191724?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-4e676c?style=for-the-badge&logo=css3&logoColor=white)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&color=191724)
-![C](https://img.shields.io/badge/C-E94D5F?style=for-the-badge&logo=c&logoColor=white&color=4e676c)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=191724)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&color=4e676c)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=191724)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&color=4e676c)
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=191724)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Projetos em Destaque
 
+| Projeto | Descricao | Tecnologias |
+| --- | --- | --- |
+| [Desafio Java Itau Backend](https://github.com/ViiniDev/Desafio-Java-Itau-Backend) | API REST para registro de transacoes e calculo de estatisticas em memoria nos ultimos 60 segundos. | Java, Spring Boot, REST, Bean Validation |
+| [ePromissorias](https://github.com/ViiniDev/ePromissorias) | Sistema desktop para gerenciamento de promissorias, compras e adiantamentos. | Java, JavaFX, PostgreSQL, Maven |
+| [CRUD To-Do List](https://github.com/ViiniDev/Crud-to-do-list) | API REST para gerenciamento de tarefas com persistencia em PostgreSQL e testes com banco em memoria. | Java, Spring Boot, JPA, PostgreSQL, H2 |
+| [CRUD Estudante](https://github.com/ViiniDev/Crud-estudante) | API REST para cadastro e gerenciamento de estudantes, usando DTOs e arquitetura em camadas. | Java, Spring Boot, JPA, PostgreSQL, H2 |
+| [Rest Request List](https://github.com/ViiniDev/Rest-request-list) | API simples para consulta de produtos por departamento, criada para praticar endpoints REST e serializacao JSON. | Java, Spring Boot, Maven |
+| [Portifolio](https://github.com/ViiniDev/Portifolio) | Portfolio web pessoal para apresentacao profissional e projetos. | HTML, CSS, JavaScript |
 
-<br>
+## Como Estou Evoluindo
 
-> Projetos acadêmicos e pessoais, incluindo trabalhos em equipe e projetos voltados a soluções reais.
+Tenho organizado meus projetos com READMEs mais completos, instrucoes de execucao, separacao de responsabilidades e commits mais claros. Meu objetivo e demonstrar evolucao consistente, capacidade de aprender rapido e cuidado com codigo que outras pessoas consigam entender, executar e manter.
 
-## Projetos
+## Contato
 
-🔹 **Quartinho** – Projeto acadêmico desenvolvido em equipe, com foco em facilitar a busca por moradia estudantil de forma segura e acessível.
-<a href="https://github.com/sophiaprado1/Quartinho-PS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sophiaprado1&repo=Quartinho-PS&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
-</a>
-<a  href="https://github.com/ViiniDev/E_Book_Wizard">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=E_Book_Wizard&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
-</a>
-<a  href="https://github.com/ViiniDev/Portifolio">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=Portifolio&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
-</a>
-</a>
-<a  href="https://github.com/ViiniDev/Crud-estudante">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=Crud-estudante&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
-</a>
-</a>
-<a  href="https://github.com/ViiniDev/Crud-to-do-list">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=Crud-to-do-list&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
-</a>
-</a>
-<a  href="https://github.com/ViiniDev/Cadastro-Netbeans">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ViiniDev&repo=Cadastro-Netbeans&locale=pt-br&show_icons=true&theme=rose_pine&hide_border=true"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4e676c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-arruda-155697277/)
+[![Gmail](https://img.shields.io/badge/Gmail-191724?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.arruda@mail.uft.edu.br)
 
+---
 
-
-
+Aberto a oportunidades como Desenvolvedor Backend Java Junior, estagio ou trainee em desenvolvimento de software.
