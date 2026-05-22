@@ -14,6 +14,7 @@ Sou graduando em Ciencia da Computacao pela UFT, com foco em desenvolvimento bac
 - Cache com Redis para melhorar desempenho de consultas
 - Mensageria com RabbitMQ para processamento assincrono
 - Fundamentos de microsservicos, comunicacao entre APIs e eventos
+- Integracao fullstack com React, TypeScript e consumo de APIs REST
 - Validacoes, regras de negocio, tratamento de erros e documentacao de APIs
 - Boas praticas com Git, GitHub, documentacao e padronizacao de projetos
 
@@ -26,6 +27,8 @@ Sou graduando em Ciencia da Computacao pela UFT, com foco em desenvolvimento bac
 ![Redis](https://img.shields.io/badge/Redis-191724?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-4e676c?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-191724?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-4e676c?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-191724?style=for-the-badge&logo=typescript&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-4e676c?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-191724?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-4e676c?style=for-the-badge&logo=github&logoColor=white)
@@ -34,6 +37,7 @@ Sou graduando em Ciencia da Computacao pela UFT, com foco em desenvolvimento bac
 
 | Projeto | O que demonstra | Tecnologias |
 | --- | --- | --- |
+| [Service Order Manager](https://github.com/ViiniDev/service-order-manager) | Evolucao fullstack do conceito de helpdesk: sistema de ordens de servico com login JWT, perfis `ADMIN`, `TECHNICIAN` e `CLIENT`, dashboard, comentarios, atribuicao de tecnico, PostgreSQL e Docker Compose. | Java, Spring Boot, Spring Security, JWT, JPA, PostgreSQL, React, TypeScript, Docker |
 | [Auth User API](https://github.com/ViiniDev/auth-user-api) | API REST de autenticacao com cadastro, login, JWT, BCrypt, roles `USER` e `ADMIN`, endpoint protegido e ambiente com PostgreSQL via Docker Compose. | Java, Spring Boot, Spring Security, JWT, JPA, PostgreSQL, Docker |
 | [Product Catalog API](https://github.com/ViiniDev/product-catalog-api) | API REST de catalogo de produtos com categorias, paginacao, busca, cache para consultas e ambiente completo com PostgreSQL e Redis via Docker Compose. | Java, Spring Boot, JPA, PostgreSQL, Redis, Docker |
 | [Notification Queue API](https://github.com/ViiniDev/notification-queue-api) | API REST para cadastro e processamento assincrono de notificacoes, usando RabbitMQ para fila de mensagens e PostgreSQL para persistencia. | Java, Spring Boot, RabbitMQ, PostgreSQL, Docker |
