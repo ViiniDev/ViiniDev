@@ -15,6 +15,9 @@ Sou graduando em Ciencia da Computacao pela UFT, com foco em desenvolvimento bac
 - Mensageria com RabbitMQ para processamento assincrono
 - Fundamentos de microsservicos, comunicacao entre APIs e eventos
 - Integracao fullstack com React, TypeScript e consumo de APIs REST
+- Testes automatizados com JUnit, MockMvc e validacao de fluxos autenticados
+- CI com GitHub Actions para testes, build frontend e build Docker
+- Documentacao de APIs com Swagger/OpenAPI
 - Validacoes, regras de negocio, tratamento de erros e documentacao de APIs
 - Boas praticas com Git, GitHub, documentacao e padronizacao de projetos
 
@@ -27,17 +30,20 @@ Sou graduando em Ciencia da Computacao pela UFT, com foco em desenvolvimento bac
 ![Redis](https://img.shields.io/badge/Redis-191724?style=for-the-badge&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-4e676c?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-191724?style=for-the-badge&logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-4e676c?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-191724?style=for-the-badge&logo=typescript&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-4e676c?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-191724?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4e676c?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-4e676c?style=for-the-badge&logo=githubactions&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-191724?style=for-the-badge&logo=junit5&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-4e676c?style=for-the-badge&logo=swagger&logoColor=white)
+![React](https://img.shields.io/badge/React-191724?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-4e676c?style=for-the-badge&logo=typescript&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-191724?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4e676c?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-191724?style=for-the-badge&logo=github&logoColor=white)
 
 ## Projetos em Destaque
 
 | Projeto | O que demonstra | Tecnologias |
 | --- | --- | --- |
-| [Service Order Manager](https://github.com/ViiniDev/service-order-manager) | Evolucao fullstack do conceito de helpdesk: sistema de ordens de servico com login JWT, perfis `ADMIN`, `TECHNICIAN` e `CLIENT`, dashboard, comentarios, atribuicao de tecnico, PostgreSQL e Docker Compose. | Java, Spring Boot, Spring Security, JWT, JPA, PostgreSQL, React, TypeScript, Docker |
+| [Service Order Manager](https://github.com/ViiniDev/service-order-manager) | Evolucao fullstack do conceito de helpdesk: sistema de ordens de servico com login JWT, perfis `ADMIN`, `TECHNICIAN` e `CLIENT`, dashboard, comentarios, atribuicao de tecnico, testes de integracao, Swagger/OpenAPI e CI com GitHub Actions. | Java, Spring Boot, Spring Security, JWT, JPA, PostgreSQL, React, TypeScript, Docker, GitHub Actions |
 | [Auth User API](https://github.com/ViiniDev/auth-user-api) | API REST de autenticacao com cadastro, login, JWT, BCrypt, roles `USER` e `ADMIN`, endpoint protegido e ambiente com PostgreSQL via Docker Compose. | Java, Spring Boot, Spring Security, JWT, JPA, PostgreSQL, Docker |
 | [Product Catalog API](https://github.com/ViiniDev/product-catalog-api) | API REST de catalogo de produtos com categorias, paginacao, busca, cache para consultas e ambiente completo com PostgreSQL e Redis via Docker Compose. | Java, Spring Boot, JPA, PostgreSQL, Redis, Docker |
 | [Notification Queue API](https://github.com/ViiniDev/notification-queue-api) | API REST para cadastro e processamento assincrono de notificacoes, usando RabbitMQ para fila de mensagens e PostgreSQL para persistencia. | Java, Spring Boot, RabbitMQ, PostgreSQL, Docker |
@@ -47,7 +53,7 @@ Sou graduando em Ciencia da Computacao pela UFT, com foco em desenvolvimento bac
 
 ## Como Estou Evoluindo
 
-Tenho organizado meus projetos com READMEs completos, instrucoes de execucao, exemplos de requisicao, Docker Compose, separacao de responsabilidades, testes automatizados e commits claros. Meu objetivo e demonstrar evolucao consistente, capacidade de aprender rapido e cuidado com codigo que outras pessoas consigam entender, executar e manter.
+Tenho organizado meus projetos com READMEs completos, instrucoes de execucao, exemplos de requisicao, Docker Compose, separacao de responsabilidades, testes automatizados, Swagger/OpenAPI, GitHub Actions e commits claros. Meu objetivo e demonstrar evolucao consistente, capacidade de aprender rapido e cuidado com codigo que outras pessoas consigam entender, executar e manter.
 
 ## Contato
 
